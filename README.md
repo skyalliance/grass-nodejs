@@ -47,13 +47,12 @@ https://grassfoundation.io/eligibility
 it will start Running
 Now you can also Close Terminal because its Running in a Screen
 
-## Credits :
-### 1. Bot Maker : https://github.com/skysaints/grass
-### 2. Post Maker : https://t.me/skysaints
+### Credits :
+#### 1. Bot Maker : https://github.com/skysaints/grass
+#### 2. Post Maker : https://t.me/skysaints
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> Support me <img src="https://www.kindpng.com/picc/b/237-2379108_donate-icon-png.png" alt="Donate logo" width="50" height="50"></h1>
 <h1 align="left">
   <img src="https://cryptologos.cc/logos/toncoin-ton-logo.svg?v=032" alt="Toncoin logo" width="30" height="30">
-  TON</h1>
-`UQDJQEj01-wgzQ6tvY8qs1eVf7ioXrpwpExaKrepfQnt84dx`
+  TON</h1> UQDJQEj01-wgzQ6tvY8qs1eVf7ioXrpwpExaKrepfQnt84dx
