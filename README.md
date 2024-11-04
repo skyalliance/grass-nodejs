@@ -26,11 +26,22 @@ https://grassfoundation.io/eligibility
 `npm install ws uuid`
 
 `npm install`
+
 ### Edit userId
 
 `const userId = 'ID GRASS';`
 
 `npm start`
+
+### Windows services.
+
+`npm install node-windows`
+
+`node service.js`
+
+- Start the service:
+`net start WSSClientService`
+
 
 ### Thats it,
 it will start Running
