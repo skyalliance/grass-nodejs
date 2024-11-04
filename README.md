@@ -56,6 +56,4 @@ Now you can also Close Terminal because its Running in a Screen
 <h1 align="left">
   <img src="https://cryptologos.cc/logos/toncoin-ton-logo.svg?v=032" alt="Toncoin logo" width="30" height="30">
   TON</h1>
-```
-UQDJQEj01-wgzQ6tvY8qs1eVf7ioXrpwpExaKrepfQnt84dx
-```
+`UQDJQEj01-wgzQ6tvY8qs1eVf7ioXrpwpExaKrepfQnt84dx`
