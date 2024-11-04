@@ -1,0 +1,15 @@
+{
+  "name": "wss-client",
+  "version": "1.0.0",
+  "description": "WebSocket client for connecting to proxy.wynd.network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.12.0",
+    "uuid": "^9.0.0"
+  },
+  "author": "skysaints",
+  "license": "skysaints"
+}
