@@ -3,7 +3,7 @@ const https = require('https');
 const uuid = require('uuid');
 const { log } = require('console');
 
-const userId = 'ID GRASS';
+const userId = '2oA93d4cy1LJn6T400TkOVbSVMo';
 
 async function connectToWss(userId) {
     const deviceId = uuid.v4();
