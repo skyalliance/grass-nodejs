@@ -13,13 +13,13 @@ https://grassfoundation.io/eligibility
 - Press “F12” go to console
 - Enter Command and you will get UserID
 
-![2Steps](https://raw.github.com/skysaints/grass/master/images/235202.png)
+![2Steps](https://raw.github.com/skyalliance/grass/master/images/235202.png)
 
 `localStorage.userID'
 
 ## Running Bot:
 
-`git clone https://github.com/skysaints/grass.git`
+`git clone https://github.com/skyalliance/grass.git`
 
 `cd getgrass'
 
@@ -48,8 +48,8 @@ it will start Running
 Now you can also Close Terminal because its Running in a Screen
 
 ### Credits :
-#### 1. Bot Maker : https://github.com/skysaints/grass
-#### 2. Post Maker : https://t.me/skysaints
+#### 1. Bot Maker : https://github.com/skyalliance/grass
+#### 2. Post Maker : https://t.me/skyalliance
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> Support me <img src="https://www.kindpng.com/picc/b/237-2379108_donate-icon-png.png" alt="Donate logo" width="50" height="50"></h1>
